@@ -8,7 +8,7 @@ To start the development:
 ```
 mkdir new-project
 cd new-project/
-git clone git@github.com:TheSoftwareHouse/react-interview-starter-js.git .
+git clone git@github.com:mateuszzagorski/TSH-recruitment-task.git .
 rm -r .git
 npm install
 ```
