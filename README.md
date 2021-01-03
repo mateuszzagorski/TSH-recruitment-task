@@ -1,6 +1,8 @@
 # TSH-recruitment-task
 
-This project was initially bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and modified by TSH team for the recruit process. This is my final version of the recruitment task following the design that I've received 
+This project was initially bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and modified by TSH team for the recruit process. This is my final version of the recruitment task, following the design that I've received, that was submitted.
+
+See it hosted here: https://mzagorski-tsh-recruitment-task.netlify.app/
 
 ## Quick Start
 
